@@ -1,12 +1,1 @@
-# 👋 Hi, I'm Ilya | Founder 
-
-I build high-leverage products and scale tech from zero to one. Equal parts engineer and startup founder. Focused on shipping clean code, finding product-market fit, and automating growth.
-
----
-
-### 🚀 Now Shipping
-* **SaaS Replicator **: The Chrome extension which replicate website into clean and professional code.
-* **Stack**: Next.js • TypeScript • Python • React • PostgreSQL
-* **Expertise**: MVP architecture, growth loops, and rapid prototyping.
-
----
+![@yiaany's GitHub Stats](https://devquest-mu.vercel.app/card/yiaany.svg?accent=ffffff&ascii=3&title=founder&stats=repos%2Cfollowers%2Cstars%2Ccontributions%2Cstreak)
