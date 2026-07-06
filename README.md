@@ -1,1 +1,1 @@
-![@yiaany's GitHub Stats](https://devquest-mu.vercel.app/card/yiaany.svg?accent=ffffff&ascii=3&title=founder&stats=repos%2Cfollowers%2Cstars%2Ccontributions%2Cstreak)
+![@yiaany's GitHub Stats](https://devquest-mu.vercel.app/card/yiaany.svg?template=neofetch&theme=dracula&ascii=25&stats=repos%2Cstars%2Ccontributions%2Cstreak)
