@@ -10,7 +10,7 @@
 ### 💻 Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,go,python,react,nextjs,postgres,sqlite,docker,git&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,go,python,react,nextjs,bun,postgres,sqlite,docker,git&perline=10" alt="Tech Stack" />
 </p>
 
 <br>
