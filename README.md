@@ -18,7 +18,7 @@
 ### 🏗 Featured Projects
 
 - <b><a href="https://github.com/yiaany/ghostapi">GhostAPI</a></b> — API simulation and test-evidence runtime for AI-assisted development.
-- <b><a href="https://github.com/yiaany/MCPay">Tarfio</a></b> — Authorization and usage-accounting infrastructure for paid MCP tools.
+- <b><a href="https://github.com/yiaany/MCPay">Tarfiooo</a></b> — Authorization and usage-accounting infrastructure for paid MCP tools.
 - <b><a href="https://github.com/yiaany/mekka">Mekka</a></b> — Multi-engine local-to-cloud workspace & runtime for dev workflows.
 
 <br>
